@@ -11,4 +11,4 @@ The documentation is only available in Italian and it contains all the info abou
 Due to submission constraints, the creation, population, and stored procedure implementation are all in a single file. \
 Enjoy :)
 
-**I have no right on file: "Progetto A.A 22-23.pdf" **
+**I have no right on file: "Progetto A.A 22-23.pdf"**
