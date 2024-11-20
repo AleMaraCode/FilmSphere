@@ -1,5 +1,4 @@
 # FilmSphere
-**Ita:** \
 Questo è il progetto che io e il mio collega Samuele Guidetti abbiamo reallizzato per l'esame del nostro corso di basi di dati, alla università di Pisa.
 la documentazione è disponibile in solo in italiano e contiene le informazioni sul database che abbiamo costruito, inolre sono presenti gli schemi ER prima e dopo la ristrutturazione.
 Per vincoli di consegna la creazione, la popolazione e la implementazione delle stored procedure è su un singolo file. \
